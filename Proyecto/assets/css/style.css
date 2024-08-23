@@ -1,0 +1,22 @@
+body{
+    background-image:url('/assets/img/photo-1717851692937-f2ab7adb7630.avif');
+    background-size: cover;
+}
+
+.size {
+    width: 50%;  
+    height: 500px;
+    object-fit: cover; 
+    margin: 0 auto;  
+    display: block;
+}
+
+.titulo {
+    background-color: rgba(128, 128, 128, 0.2);
+    color: aqua;
+}
+
+.form{
+    color: rgb(0, 250, 250, 0.9);
+}
+
