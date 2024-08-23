@@ -1,0 +1,37 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav {
+  background-color: #051b54;
+}
+.navbar-brand {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.btn-outline {
+  background-color: #ffffff33;
+  color: white;
+  border-radius: 20px;
+}
+.card-body {
+  background-color: #62dad3;
+  color: #043431;
+}
+.card {
+  margin: 0px 10px 0px 10px;
+}
+.letra {
+  color: #051b54;
+}
+.form-control {
+  justify-content: space-around;
+}
+.back {
+  background-color: #f8f9fa;
+}
+.contenedor-form {
+  margin: 10px;
+  box-shadow: 0px 0px 20px -6px rgba(0, 0, 0, 0.75);
+  border-radius: 8px;
+  padding: 20px;
+}
